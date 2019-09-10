@@ -1,1 +1,1 @@
-module github.com/jinzhu/inflection
+module github.com/zdxie/inflection
